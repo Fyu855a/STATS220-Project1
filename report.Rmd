@@ -11,8 +11,8 @@ output:
 
 For this project, I have met the requirements related to working with GitHub and GitHub Pages by creating a repository on GitHub, committing and pushing my code to the repository, and creating a website using GitHub Pages. The links to my repository and website are:
 
-- [GitHub repository](https://github.com/fyu855/stats220/project1)
-- [GitHub Pages website](https://fyu855.github.io/stats220/project1/index.html)
+- [GitHub repository](https://github.com/Fyu855a/STATS220-Project1)
+- [GitHub Pages website](https://fyu855a.github.io/STATS220-Project1/)
 
 Here is a screenshot of the project folder on my computer:
 
